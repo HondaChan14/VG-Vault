@@ -9,7 +9,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="docs/logobar.png" alt="VG Vault logo" width="500">
+    <img src="logobar.png" alt="VG Vault logo" width="500">
   </a>
 </h1>
 
@@ -35,11 +35,11 @@
   <summary>Table of Contents</summary>
 
   - [About](#-about)
-    - [Built With](#-built-with)
+  - [Built With](#-built-with)
 
   </details>
     </td>
-    <td valign="top" style="width:70%"><img src="docs/pikachu.png" alt="The pokemon pikachu"/></td>
+    <td valign="top" style="width:70%"><img src="pikachu.png" alt="The pokemon pikachu" width="150"/></td>
   </tr>
 </table>
 </div>
@@ -49,12 +49,12 @@
 <br/>
 
 <div align='center'>
-  <img src="docs/line.png">
+  <img src="line.png">
 </div>
 
 # 📢 About
 
-Together is a new app designed for 100devs. Together is a group calendar for public events, so you can see what's going on in your community. We're making it easier to find out about the events that are happening in Discord and let you know how much fun they'll be!
+VG Vault is a new app designed for video game collectors. To search through video games / consoles to add them to your profile to keep track of your collection.
 
 <br/>
 
@@ -63,10 +63,10 @@ Together is a new app designed for 100devs. Together is a group calendar for pub
 </p>
 
 <div align='center'>
-  <img src="docs/line.png">
+  <img src="line.png">
 </div>
 
-## ✅ Built With
+# ✅ Built With
 
 <div style="width:60%;margin:0 auto;" align="center">
   <table>
@@ -91,5 +91,5 @@ Together is a new app designed for 100devs. Together is a group calendar for pub
 
 
 <div align='center'>
-  <img src="docs/line.png">
+  <img src="line.png">
 </div>
