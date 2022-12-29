@@ -9,6 +9,7 @@ module.exports = {
       colors: {
         "background": "#252121",
         "navbtn": "#6B399D",
+        "darkbtn": "#4a276d",
       }
     },
   },
@@ -17,22 +18,14 @@ module.exports = {
       {
         mytheme: {
         
-"primary": "#7a85cc",
-        
-"secondary": "#28ccbe",
-        
-"accent": "#ea3c9f",
-        
-"neutral": "#2F2D39",
-        
-"base-100": "#3A3A3B",
-        
-"info": "#ABDBE8",
-        
-"success": "#2FD0A5",
-        
-"warning": "#F5AA14",
-        
+"primary": "#6B399D",      
+"secondary": "#28ccbe",     
+"accent": "#ea3c9f",       
+"neutral": "#2F2D39",       
+"base-100": "#3A3A3B",      
+"info": "#ABDBE8",      
+"success": "#2FD0A5",     
+"warning": "#F5AA14",     
 "error": "#EB1E36",
         },
       },
